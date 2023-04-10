@@ -1,0 +1,11 @@
+/api/node_modules
+/api/.env
+/api/.env.example
+/api/vendor
+
+/dtMoney/node_modules
+/dtMoney/npm-debug.log*
+/dtMoney/yarn-debug.log*
+/dtMoney/yarn-error.log*
+
+
